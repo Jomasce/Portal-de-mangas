@@ -117,8 +117,9 @@ footer {
 }
 
 footer p {
-    margin-right: 32px;
+    margin-left: 32px;
     color: white;
+    font-weight: normal;
 }
 
 .contatos img {
